@@ -43,6 +43,8 @@
    git clone https://github.com/luckyunhao/dsh-memory-wbh.git D:\dsh-memory-kb
    ```
 
+   不想用 git：在 GitHub 仓库页点 **Code → Download ZIP**，解压后把下面的 `<本仓库路径>` 换成解压目录即可。
+
 2. 在 DSH 里对 Agent 说：
 
    > 用 plugin_manager 的 install_bundle 安装 `D:\dsh-memory-kb\dsh-memory-kb`
