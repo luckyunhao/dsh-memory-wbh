@@ -3,6 +3,14 @@
   "version": "0.2.0",
   "private": true,
   "description": "DSH 记忆与知识库 Workbench：自动沉淀/召回、技能、新闻、记忆审核、RAG 问答、成本估算、会话导出与代码文件预览。",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luckyunhao/dsh-memory-wbh.git"
+  },
+  "homepage": "https://github.com/luckyunhao/dsh-memory-wbh#readme",
+  "bugs": {
+    "url": "https://github.com/luckyunhao/dsh-memory-wbh/issues"
+  },
   "type": "module",
   "main": "./index.js",
   "exports": {
