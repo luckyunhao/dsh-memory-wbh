@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Memory and Knowledge Base">
+  <defs>
+    <linearGradient id="mkb-g1" x1="8" y1="6" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b8cff"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="16" fill="url(#mkb-g1)"/>
+  <path d="M20 18c5-2.6 9-2.6 12 0 3-2.6 7-2.6 12 0v26c-5-2.2-9-2.2-12 0-3-2.2-7-2.2-12 0V18Z" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M32 18v26" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+  <circle cx="25" cy="28" r="2.2" fill="#fff"/>
+  <circle cx="25" cy="35" r="2.2" fill="#fff"/>
+  <circle cx="39" cy="31" r="2.2" fill="#fff"/>
+  <path d="M27 28h5M27 35h5M41 31h-2" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity=".85"/>
+</svg>

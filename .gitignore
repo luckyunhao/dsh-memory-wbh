@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Local plugin/runtime data
+state.json
+settings.json
+usage-ledger.json
+news-items.json
+.trash/
+media/
+
+# Logs / temp / backups
+*.log
+*.tmp
+*.bak
+*.bak-*
+backup-*/
+_work/
+_publish/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key

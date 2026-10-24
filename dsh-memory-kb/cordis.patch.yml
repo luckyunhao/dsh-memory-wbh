@@ -1,0 +1,13 @@
+# dsh-memory-kb — 记忆与知识库 bundle 的 Host 行。
+#
+# 安装为 bundle 后，这一行把 Host 半边挂进当前 profile；浏览器半边由
+# package.json 的 dsh.client 声明自动加载。可调参数写在 config 里，
+# 用户档案的 cordis.patch.yml 可以按 id 覆盖（config 整体替换）。
+- insert:
+    - id: dsh-memory-kb
+      name: 'dsh-memory-kb'
+      config:
+        autoDistill: true
+        autoRecall: true
+        newsEnabled: true
+        newsIntervalHours: 6

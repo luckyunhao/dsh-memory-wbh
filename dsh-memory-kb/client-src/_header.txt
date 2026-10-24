@@ -1,0 +1,6 @@
+window.__ModuleLoader__.load({
+  id: 'dsh-memory-kb',
+  factory(require) {
+    const React = require('react');
+    const h = React.createElement;
+    const API = '/dsh-memory-kb/api';
