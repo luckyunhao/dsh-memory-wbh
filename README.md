@@ -40,7 +40,7 @@
 1. 克隆本仓库到本地，例如：
 
    ```powershell
-   git clone https://github.com/<your-name>/dsh-memory-kb.git D:\dsh-memory-kb
+   git clone https://github.com/luckyunhao/dsh-memory-wbh.git D:\dsh-memory-kb
    ```
 
 2. 在 DSH 里对 Agent 说：
